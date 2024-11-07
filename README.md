@@ -1,108 +1,113 @@
-# AllDebrid  vs Real-Debrid
-A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/) and [Real-Debrid](https://real-debrid.com/)
+# AllDebrid vs Real-Debrid vs LinkSnappy vs Premiumize
+
+A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), and [Premiumize](https://www.premiumize.me/services)
+
 > Lists of hosts are taken from respctive services and live of status of hosts can be tracked from:
+
 - [AllDebrid](https://alldebrid.com/status/) 
 - [Real-Debrid](https://real-debrid.com/compare)
+- [LinkSnappy](https://linksnappy.com/myaccount/status)
+- [Premiumize](https://www.premiumize.me/services)
 
+| **Service Name**                                | **AllDebrid**                          | **RealDebrid** | **LinkSnappy** | **Premiumize** |
+|-------------------------------------------------|----------------------------------------|----------------|----------------|----------------|
+| **1Fichier**                                    | Yes                                    | Yes            |No              |Yes             |
+| **4Shared**                                     | Yes                                    | Yes            |No              |No              |
+| **Alfafile**                                    | Yes                                    | No             |Yes             |No              |
+| **Apkadmin**                                    | Yes                                    | No             |No              |No              |
+| **Archive.org**                                 | Yes                                    | No             |No              |Yes             |
+| **Beeg**                                        | Yes                                    | No             |No              |No              |
+| **Canalplus**                                   | Yes                                    | No             |No              |No              |
+| **ClicknUpload**                                | No                                     | Yes            |Yes             |Yes             |
+| **Cloudvideo**                                  | Yes                                    | No             |Yes             |Yes             |
+| **ComedyCentral**                               | Yes                                    | No             |No              |No              |
+| **Crunchyroll**                                 | Yes                                    | No             |No              |No              |
+| **Dailymotion**                                 | Yes                                    | Yes            |Yes             |No              |
+| **Dailyuploads**                                | Yes *(best effort based)*              | No             |No              |No              |
+| **DDowload / DDL.to**                           | Yes                                    | Yes            |Yes             |No              |
+| **DrTuber**                                     | Yes                                    | No             |No              |No              |
+| **Drop.download / DropAPK**                     | Yes                                    | Yes            |No              |Yes             |
+| **Dropgalaxy**                                  | Yes                                    | No             |No              |No              |
+| **Exload**                                      | Yes *(best effort based)*              | No             |No              |No              |
+| **Fastbit**                                     | Yes                                    | No             |No              |No              |
+| **File-upload**                                 | Yes                                    | No             |No              |No              |
+| **File.al**                                     | Yes                                    | Yes            |Yes             |Yes             |  
+| **Filefactory**                                 | No                                     | Yes            |Yes             |Yes             |
+| **Filenext**                                    | No                                     | Yes            |Yes             |Yes             |
+| **Filespace**                                   | Yes                                    | Yes            |Yes             |No              |
+| **Filestore**                                   | No                                     | Yes            |No              |Yes             |
+| **Filerio**                                     | Yes *(best effort based)*              | No             |No              |No              |
+| **Filezip**                                     | Yes *(best effort based)*              | No             |No              |No              |
+| **Flashbit**                                    | Yes                                    | Yes            |Yes             |No              |
+| **Gigapeta**                                    | Yes                                    | Yes            |Yes             |No              |
+| **Google**                                      | Yes                                    | Yes            |No              |Yes             |
+| **Harefile**                                    | Yes                                    | No             |No              |No              |
+| **HexUpload / HexLoad**                         | No                                     | Yes            |No              |Yes             |
+| **Hitfile**                                     | Yes                                    | Yes            |Yes             |Yes             |
+| **Hot4share**                                   | Yes *(best effort based)*              | No             |No              |No              |
+| **Indishare**                                   | Yes *(best effort based)*              | No             |No              |No              |
+| **Isra**                                        | Yes                                    | Yes            |Yes             |Yes             |
+| **Katfile**                                     | Yes                                    | Yes            |Yes             |Yes             |
+| **Lynda**                                       | Yes                                    | No             |No              |No              |
+| **Mediafire**                                   | Yes                                    | Yes            |Yes             |Yes             |
+| **Mega**                                        | Yes                                    | Yes            |Yes             |Yes             |
+| **Mexashare**                                   | Yes                                    | No             |No              |No              |
+| **Mixdrop**                                     | Yes *(best effort based)*              | Yes            |No              |No              |
+| **Modsbase**                                    | Yes                                    | No             |No              |Yes             |
+| **MP4upload**                                   | Yes                                    | No             |No              |No              |
+| **Niconico**                                    | Yes                                    | No             |No              |No              |
+| **NYTimes**                                     | Yes                                    | No             |No              |Yes             |
+| **Odnoklassniki**                               | Yes                                    | No             |No              |No              |
+| **PornHub**                                     | Yes                                    | No             |No              |No              |
+| **PornoXO**                                     | Yes                                    | No             |No              |No              |
+| **Prefiles**                                    | Yes                                    | Yes            |No              |No              |
+| **RadioTunes**                                  | No                                     | Yes            |No              |No              |
+| **RapidGator**                                  | Yes                                    | Yes            |Yes             |Yes             |
+| **Redtube**                                     | Yes                                    | Yes            |No              |No              |
+| **RTBF**                                        | Yes                                    | No             |No              |No              |
+| **RTS**                                         | Yes                                    | No             |No              |No              |
+| **RTVE.es**                                     | Yes                                    | No             |No              |Yes             |
+| **Rutube**                                      | Yes                                    | No             |No              |No              |
+| **Scribd**                                      | Yes                                    | Yes            |No              |No              |
+| **Sendit**                                      | Yes                                    | No             |No              |No              |
+| **Sendspace**                                   | No                                     | Yes            |No              |No              |
+| **Sharemods**                                   | Yes                                    | No             |No              |No              |
+| **Simfileshare**                                | Yes                                    | No             |No              |No              |
+| **SoundCloud**                                  | Yes                                    | Yes            |Yes             |Yes             |
+| **SpankBang**                                   | Yes                                    | No             |No              |No              |
+| **Steam**                                       | Yes                                    | No             |No              |No              |
+| **Streamtape**                                  | No                                     | Yes            |No              |Yes             |
+| **SunPorno**                                    | Yes                                    | No             |No              |No              |
+| **Terabytez**                                   | No                                     | Yes            |No              |No              |
+| **Turbobit**                                    | Yes                                    | Yes            |Yes             |Yes             |
+| **Upload42**                                    | Yes                                    | No             |No              |No              |
+| **Uploadbank**                                  | Yes *(best effort based)*              | No             |No              |No              |
+| **Uploadbox**                                   | Yes *(best effort based)*              | No             |No              |No              |
+| **Uploadboy**                                   | Yes                                    | No             |No              |Yes             |
+| **Uploadev**                                    | Yes                                    | No             |No              |No              |
+| **Uploadrar**                                   | Yes                                    | No             |No              |Yes             |
+| **Uploady**                                     | Yes                                    | No             |No              |No              |
+| **Upstream**                                    | No                                     | Yes            |No              |No              |
+| **Userscloud**                                  | Yes                                    | Yes            |No              |No              |
+| **UsersDrive**                                  | Yes *(best effort based)*              | Yes            |No              |Yes             |
+| **Userupload**                                  | Yes                                    | No             |No              |No              |
+| **Vidoza**                                      | Yes                                    | Yes            |No              |Yes             |
+| **Vimeo**                                       | Yes                                    | Yes            |No              |No              |
+| **VK**                                          | No                                     | Yes            |No              |Yes             |
+| **Voe**                                         | No                                     | Yes            |No              |No              |
+| **Veoh**                                        | Yes                                    | No             |No              |Yes             |
+| **Vipfile**                                     | Yes                                    | No             |No              |No              |
+| **Wipfiles**                                    | No                                     | Yes            |No              |No              |
+| **World-files**                                 | Yes                                    | No             |No              |No              |
+| **Worldbytez**                                  | Yes                                    | Yes            |No              |No              |
+| **Wupfile / Salefiles**                         | No                                     | Yes            |Yes             |Yes             |
+| **XHamster**                                    | Yes                                    | No             |No              |No              |
+| **XNXX**                                        | Yes                                    | No             |No              |No              |
+| **XVideos**                                     | Yes                                    | No             |No              |No              |
+| **XXXYMovies**                                  | Yes                                    | No             |No              |No              |
+| **YouJizz**                                     | Yes                                    | No             |No              |No              |
+| **Youporn**                                     | No                                     | Yes            |No              |No              |
+| **Youtube**                                     | No                                     | Yes            |No              |Yes             |
+| *Total 98*                                      |82/98                                   |44/98           |20/98           |32/98           |
 
-| **Service Name**                                | **AllDebrid**                          | **RealDebrid** |
-|-------------------------------------------------|----------------------------------------|----------------|
-| **1Fichier**                                    | Yes                                    | Yes            |
-| **4Shared**                                     | Yes                                    | Yes            |
-| **Alfafile**                                    | Yes                                    | No             |
-| **Apkadmin**                                    | Yes                                    | No             |
-| **Archive.org**                                 | Yes                                    | No             |
-| **Beeg**                                        | Yes                                    | No             |
-| **Canalplus**                                   | Yes                                    | No             |
-| **ClicknUpload**                                | No                                     | Yes            |
-| **Cloudvideo**                                  | Yes                                    | No             |
-| **ComedyCentral**                               | Yes                                    | No             |
-| **Crunchyroll**                                 | Yes                                    | No             |
-| **Dailymotion**                                 | Yes                                    | Yes            |
-| **Dailyuploads**                                | Yes *(best effort based)*              | No             |
-| **DDowload / DDL.to**                           | Yes                                    | Yes            |
-| **DrTuber**                                     | Yes                                    | No             |
-| **Drop.download / DropAPK**                     | Yes                                    | Yes            |
-| **Dropgalaxy**                                  | Yes                                    | No             |
-| **Exload**                                      | Yes *(best effort based)*              | No             |
-| **Fastbit**                                     | Yes                                    | No             |
-| **File-upload**                                 | Yes                                    | No             |
-| **File.al**                                     | Yes                                    | Yes            |
-| **Filefactory**                                 | No                                     | Yes            |
-| **Filenext**                                    | No                                     | Yes            |
-| **Filespace**                                   | Yes                                    | Yes            |
-| **Filestore**                                   | No                                     | Yes            |
-| **Filerio**                                     | Yes *(best effort based)*              | No             |
-| **Filezip**                                     | Yes *(best effort based)*              | No             |
-| **Flashbit**                                    | Yes                                    | Yes            |
-| **Gigapeta**                                    | Yes                                    | Yes            |
-| **Google**                                      | Yes                                    | Yes            |
-| **Harefile**                                    | Yes                                    | No             |
-| **HexUpload / HexLoad**                         | No                                     | Yes            |
-| **Hitfile**                                     | Yes                                    | Yes            |
-| **Hot4share**                                   | Yes *(best effort based)*              | No             |
-| **Indishare**                                   | Yes *(best effort based)*              | No             |
-| **Isra**                                        | Yes                                    | Yes            |
-| **Katfile**                                     | Yes                                    | Yes            |
-| **Lynda**                                       | Yes                                    | No             |
-| **Mediafire**                                   | Yes                                    | Yes            |
-| **Mega**                                        | Yes                                    | Yes            |
-| **Mexashare**                                   | Yes                                    | No             |
-| **Mixdrop**                                     | Yes *(best effort based)*              | Yes            |
-| **Modsbase**                                    | Yes                                    | No             |
-| **MP4upload**                                   | Yes                                    | No             |
-| **Niconico**                                    | Yes                                    | No             |
-| **NYTimes**                                     | Yes                                    | No             |
-| **Odnoklassniki**                               | Yes                                    | No             |
-| **PornHub**                                     | Yes                                    | No             |
-| **PornoXO**                                     | Yes                                    | No             |
-| **Prefiles**                                    | Yes                                    | Yes            |
-| **RadioTunes**                                  | No                                     | Yes            |
-| **RapidGator**                                  | Yes                                    | Yes            |
-| **Redtube**                                     | Yes                                    | Yes            |
-| **RTBF**                                        | Yes                                    | No             |
-| **RTS**                                         | Yes                                    | No             |
-| **RTVE.es**                                     | Yes                                    | No             |
-| **Rutube**                                      | Yes                                    | No             |
-| **Scribd**                                      | Yes                                    | Yes            |
-| **Sendit**                                      | Yes                                    | No             |
-| **Sendspace**                                   | No                                     | Yes            |
-| **Sharemods**                                   | Yes                                    | No             |
-| **Simfileshare**                                | Yes                                    | No             |
-| **SoundCloud**                                  | Yes                                    | Yes            |
-| **SpankBang**                                   | Yes                                    | No             |
-| **Steam**                                       | Yes                                    | No             |
-| **Streamtape**                                  | No                                     | Yes            |
-| **SunPorno**                                    | Yes                                    | No             |
-| **Terabytez**                                   | No                                     | Yes            |
-| **Turbobit**                                    | Yes                                    | Yes            |
-| **Upload42**                                    | Yes                                    | No             |
-| **Uploadbank**                                  | Yes *(best effort based)*              | No             |
-| **Uploadbox**                                   | Yes *(best effort based)*              | No             |
-| **Uploadboy**                                   | Yes                                    | No             |
-| **Uploadev**                                    | Yes                                    | No             |
-| **Uploadrar**                                   | Yes                                    | No             |
-| **Uploady**                                     | Yes                                    | No             |
-| **Upstream**                                    | No                                     | Yes            |
-| **Userscloud**                                  | Yes                                    | Yes            |
-| **UsersDrive**                                  | Yes *(best effort based)*              | Yes            |
-| **Userupload**                                  | Yes                                    | No             |
-| **Vidoza**                                      | Yes                                    | Yes            |
-| **Vimeo**                                       | Yes                                    | Yes            |
-| **VK**                                          | No                                     | Yes            |
-| **Voe**                                         | No                                     | Yes            |
-| **Veoh**                                        | Yes                                    | No             |
-| **Vipfile**                                     | Yes                                    | No             |
-| **Wipfiles**                                    | No                                     | Yes            |
-| **World-files**                                 | Yes                                    | No             |
-| **Worldbytez**                                  | Yes                                    | Yes            |
-| **Wupfile / Salefiles**                         | No                                     | Yes            |
-| **XHamster**                                    | Yes                                    | No             |
-| **XNXX**                                        | Yes                                    | No             |
-| **XVideos**                                     | Yes                                    | No             |
-| **XXXYMovies**                                  | Yes                                    | No             |
-| **YouJizz**                                     | Yes                                    | No             |
-| **Youporn**                                     | No                                     | Yes            |
-| **Youtube**                                     | No                                     | Yes            |
-
-> Last updated: Tuesday, August 27, 2024
+> Last updated: Monday, November 04, 2024
