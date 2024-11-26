@@ -1,6 +1,6 @@
-# AllDebrid vs Real-Debrid vs LinkSnappy vs Premiumize
+# AllDebrid vs Real-Debrid vs LinkSnappy vs Premiumize vs TorBox
 
-A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), and [Premiumize](https://www.premiumize.me/services)
+A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services) and [TorBox](https://torbox.app/)
 
 > Lists of hosts are taken from respctive services and live of status of hosts can be tracked from:
 
