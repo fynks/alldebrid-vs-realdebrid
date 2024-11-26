@@ -2,6 +2,14 @@
 
 A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services) and [TorBox](https://torbox.app/).
 
+Contents:
+- [Signing Up](#signing-up)
+- [Pricing](#pricing)
+  - [Up-to-date Pricing:](#up-to-date-pricing)
+- [Avialble Hosts](#avialble-hosts)
+  - [Live status:](#live-status)
+
+
 ## Signing Up
 If you are signing up for any above service, consider buying from my referrel link:
 
@@ -20,7 +28,8 @@ If you are signing up for any above service, consider buying from my referrel li
 | LinkSnappy  | -              | $4.99 USD  | -           | $12.99 USD                            | $29.99 USD                     | $54.99 USD                     |
 | Torbox      | 0$/month       | -          | -           | Starts from $2.1/mo                   |                                |                                |
 
-### For more up-to-date pricing you can check individual services:
+### Up-to-date Pricing:
+> You can check pricing for each individual service at:
 - [AllDebrid](https://alldebrid.com/offer/)
 - [Real-Debrid](https://real-debrid.com/premium)
 - [TorBox](https://torbox.app/pricing)
@@ -139,8 +148,8 @@ If you are signing up for any above service, consider buying from my referrel li
 
 > [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
 
-### > Lists of hosts are taken from respctive services and live of status of hosts can be tracked from:
-
+### Live status:
+> Up-to-date list of hosts for individual services can tracked from:
 - [AllDebrid](https://alldebrid.com/status/)
 - [Real-Debrid](https://real-debrid.com/compare)
 - [LinkSnappy](https://linksnappy.com/myaccount/status)
