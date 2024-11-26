@@ -122,6 +122,6 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 | **Twitch**                  | No                        | No             | No             | No             | Yes                        |
 | _Total 98_                  | 82/98                     | 44/98          | 20/98          | 32/98          |
 
-> Last updated: Monday, November 04, 2024
+> Last updated: Monday, November 26, 2024
 
 > [\*(best effort based)](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
