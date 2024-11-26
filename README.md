@@ -1,21 +1,34 @@
-# Debrid services comparison 
+# Debrid services comparison
 
-A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services) and [TorBox](https://torbox.app/)
+A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services) and [TorBox](https://torbox.app/).
 
-> Lists of hosts are taken from respctive services and live of status of hosts can be tracked from:
-
-- [AllDebrid](https://alldebrid.com/status/)
-- [Real-Debrid](https://real-debrid.com/compare)
-- [LinkSnappy](https://linksnappy.com/myaccount/status)
-- [Premiumize](https://www.premiumize.me/services)
-- [TorBox](https://support.torbox.app/en/articles/9837721-supported-debrid-hosters)
-
-> If you are signing up for any above service, consider buying from my referrel link:
+## Signing Up
+If you are signing up for any above service, consider buying from my referrel link:
 
 - [AllDebrid](https://alldebrid.com/?uid=3ygyi&lang=en)
 - [Real-Debrid](http://real-debrid.com/?id=10990901)
 - [TorBox](https://torbox.app/subscription?referral=47eece72-46b8-483b-8b7a-79d6c16dedf2)
+- [Real-Debrid](https://real-debrid.com/premium)
+- [LinkSnappy](http://linksnappy.com/?ref=774668)
 
+## Pricing
+| **Service** | **Free/Trial** | **7 Days** | **15 days** | **30 days** | **90 Days**                    | **180 Days**                   |
+| ----------- | -------------- | ---------- | ----------- | ----------- | ------------------------------ | ------------------------------ |
+| AllDebrid   | 7 days         | -          | -           | 2.99€/mo(Recur) or 3.99€/mo(One time) |                                |                                |
+| Real-Debrid | -              | -          | 3 €         | 4 €         | 9 €                            | 16 €                           |
+| Premiumize  | -              | -          | -           | € 9.99 / mo | € 8.33 / month (€ 24.99 total) | € 5.75 / month (€ 69.99 total) |
+| LinkSnappy  | -              | $4.99 USD  | -           | $12.99 USD  | $29.99 USD                     | $54.99 USD                     |
+| Torbox      | 0$/month       | -          | -           | Starts from $2.1/mo|                         |                                |
+
+### For more up-to-date pricing you can check individual services:
+- [AllDebrid](https://alldebrid.com/offer/)
+- [Real-Debrid](https://real-debrid.com/premium)
+- [TorBox](https://torbox.app/pricing)
+- [Premiumize](https://www.premiumize.me/premium)
+- [LinkSnappy](https://linksnappy.com/myaccount/extend)
+
+
+## Avialble Hosts
 | **Service Name**            | **AllDebrid**             | **RealDebrid** | **LinkSnappy** | **Premiumize** | **TorBox**                 |
 | --------------------------- | ------------------------- | -------------- | -------------- | -------------- | -------------------------- |
 | **1Fichier**                | Yes                       | Yes            | No             | Yes            | Yes                        |
@@ -32,12 +45,12 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 | **ComedyCentral**           | Yes                       | No             | No             | No             | No                         |
 | **Crunchyroll**             | Yes                       | No             | No             | No             | No                         |
 | **Dailymotion**             | Yes                       | Yes            | Yes            | No             | No                         |
-| **Dailyuploads**            | Yes \*(best effort based) | No             | No             | No             | No                         |
+| **Dailyuploads**            | Yes * | No             | No             | No             | No                         |
 | **DDowload / DDL.to**       | Yes                       | Yes            | Yes            | No             | YEs                        |
 | **DrTuber**                 | Yes                       | No             | No             | No             | No                         |
 | **Drop.download / DropAPK** | Yes                       | Yes            | No             | Yes            | No                         |
 | **Dropgalaxy**              | Yes                       | No             | No             | No             | No                         |
-| **Exload**                  | Yes \*(best effort based) | No             | No             | No             | No                         |
+| **Exload**                  | Yes * | No             | No             | No             | No                         |
 | **Fastbit**                 | Yes                       | No             | No             | No             | No                         |
 | **File-upload**             | Yes                       | No             | No             | No             | No                         |
 | **File.al**                 | Yes                       | Yes            | Yes            | Yes            | No                         |
@@ -45,16 +58,16 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 | **Filenext**                | No                        | Yes            | Yes            | Yes            | No                         |
 | **Filespace**               | Yes                       | Yes            | Yes            | No             | No                         |
 | **Filestore**               | No                        | Yes            | No             | Yes            | No                         |
-| **Filerio**                 | Yes \*(best effort based) | No             | No             | No             | No                         |
-| **Filezip**                 | Yes \*(best effort based) | No             | No             | No             | No                         |
+| **Filerio**                 | Yes * | No             | No             | No             | No                         |
+| **Filezip**                 | Yes * | No             | No             | No             | No                         |
 | **Flashbit**                | Yes                       | Yes            | Yes            | No             | No                         |
 | **Gigapeta**                | Yes                       | Yes            | Yes            | No             | No                         |
 | **Google**                  | Yes                       | Yes            | No             | Yes            | No                         |
 | **Harefile**                | Yes                       | No             | No             | No             | No                         |
 | **HexUpload / HexLoad**     | No                        | Yes            | No             | Yes            | No                         |
 | **Hitfile**                 | Yes                       | Yes            | Yes            | Yes            | Yes                        |
-| **Hot4share**               | Yes \*(best effort based) | No             | No             | No             | No                         |
-| **Indishare**               | Yes \*(best effort based) | No             | No             | No             | No                         |
+| **Hot4share**               | Yes * | No             | No             | No             | No                         |
+| **Indishare**               | Yes * | No             | No             | No             | No                         |
 | **Isra**                    | Yes                       | Yes            | Yes            | Yes            | No                         |
 | **Katfile**                 | Yes                       | Yes            | Yes            | Yes            | Yes                        |
 | **Lynda**                   | Yes                       | No             | No             | No             | No                         |
@@ -63,7 +76,7 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 | **PixelDrain**              | No                        | No             | No             | No             | Yes                        |
 | **Yandex Disk**             | No                        | No             | No             | No             | Yes                        |
 | **Mexashare**               | Yes                       | No             | No             | No             | No                         |
-| **Mixdrop**                 | Yes \*(best effort based) | Yes            | No             | No             | No                         |
+| **Mixdrop**                 | Yes * | Yes            | No             | No             | No                         |
 | **Modsbase**                | Yes                       | No             | No             | Yes            | No                         |
 | **MP4upload**               | Yes                       | No             | No             | No             | No                         |
 | **Niconico**                | Yes                       | No             | No             | No             | No                         |
@@ -92,15 +105,15 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 | **Terabytez**               | No                        | Yes            | No             | No             | No                         |
 | **Turbobit**                | Yes                       | Yes            | Yes            | Yes            | Yes                        |
 | **Upload42**                | Yes                       | No             | No             | No             | No                         |
-| **Uploadbank**              | Yes \*(best effort based) | No             | No             | No             | No                         |
-| **Uploadbox**               | Yes \*(best effort based) | No             | No             | No             | No                         |
+| **Uploadbank**              | Yes * | No             | No             | No             | No                         |
+| **Uploadbox**               | Yes * | No             | No             | No             | No                         |
 | **Uploadboy**               | Yes                       | No             | No             | Yes            | No                         |
 | **Uploadev**                | Yes                       | No             | No             | No             | No                         |
 | **Uploadrar**               | Yes                       | No             | No             | Yes            | No                         |
 | **Uploady**                 | Yes                       | No             | No             | No             | No                         |
 | **Upstream**                | No                        | Yes            | No             | No             | No                         |
 | **Userscloud**              | Yes                       | Yes            | No             | No             | No                         |
-| **UsersDrive**              | Yes \*(best effort based) | Yes            | No             | Yes            | No                         |
+| **UsersDrive**              | Yes * | Yes            | No             | Yes            | No                         |
 | **Userupload**              | Yes                       | No             | No             | No             | No                         |
 | **Vidoza**                  | Yes                       | Yes            | No             | Yes            | No                         |
 | **Vimeo**                   | Yes                       | Yes            | No             | No             | No                         |
@@ -124,4 +137,12 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 
 > Last updated: Monday, November 26, 2024
 
-> [\*(best effort based)](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
+> [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
+
+### > Lists of hosts are taken from respctive services and live of status of hosts can be tracked from:
+
+- [AllDebrid](https://alldebrid.com/status/)
+- [Real-Debrid](https://real-debrid.com/compare)
+- [LinkSnappy](https://linksnappy.com/myaccount/status)
+- [Premiumize](https://www.premiumize.me/services)
+- [TorBox](https://support.torbox.app/en/articles/9837721-supported-debrid-hosters)
