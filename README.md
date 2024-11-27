@@ -13,7 +13,7 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 ## Signing Up
 If you are signing up for any above service, consider buying from my referrel link:
 
-- [AllDebrid](https://alldebrid.com/?uid=3ygyi&lang=en)
+- [AllDebrid](https://alldebrid.com/?uid=3wvya&lang=en)
 - [Real-Debrid](http://real-debrid.com/?id=10990901)
 - [TorBox](https://torbox.app/subscription?referral=47eece72-46b8-483b-8b7a-79d6c16dedf2)
 - [Real-Debrid](https://real-debrid.com/premium)
