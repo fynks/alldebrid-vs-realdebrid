@@ -28,7 +28,7 @@ If you are signing up for any above service, consider buying from my referrel li
 | LinkSnappy  | -              | $4.99 USD  | -           | $12.99 USD                            | $29.99 USD                     | $54.99 USD                     |
 | Torbox      | 0$/month       | -          | -           | Starts from $2.1/mo                   |                                |                                |
 
-> [*] = 7 Days free trail at Alldebrid requires a phone verification
+> [ * ] = 7 Days free trail at Alldebrid requires a phone verification
 
 ### Up-to-date Pricing
  You can check pricing for each individual service at:
