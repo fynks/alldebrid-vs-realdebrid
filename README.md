@@ -26,9 +26,11 @@ If you are signing up for any above service, consider buying from my referrel li
 | Real-Debrid | -              | -          | 3 €         | 4 €                                   | 9 €                            | 16 €                           |
 | Premiumize  | -              | -          | -           | € 9.99 / mo                           | € 8.33 / month (€ 24.99 total) | € 5.75 / month (€ 69.99 total) |
 | LinkSnappy  | -              | $4.99 USD  | -           | $12.99 USD                            | $29.99 USD                     | $54.99 USD                     |
-| Torbox      | 0$/month       | -          | -           | Starts from $2.1/mo                   |                                |                                |
+| Torbox      | 0$/month (sign-ups disabled)**      | -          | -           | Starts from $2.1/mo                   |                                |                                |
 
-> [ * ] = 7 Days free trail at Alldebrid requires a phone verification
+> [ * ] = 7 Days free trail at Alldebrid requires a phone verification.
+
+> [ ** ] = We have disabled sign ups until our service has been stabilized. We thank you for your patience. [Source](https://torbox.app/login)
 
 ### Up-to-date Pricing
  You can check pricing for each individual service at:
