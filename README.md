@@ -16,7 +16,7 @@ If you are signing up for any above service, consider buying from my referrel li
 - [AllDebrid](https://alldebrid.com/?uid=3wvya&lang=en)
 - [Real-Debrid](http://real-debrid.com/?id=10990901)
 - [TorBox](https://torbox.app/subscription?referral=47eece72-46b8-483b-8b7a-79d6c16dedf2)
-- [Real-Debrid](https://real-debrid.com/premium)
+- [Premiumize](https://www.premiumize.me/account)
 - [LinkSnappy](http://linksnappy.com/?ref=774668)
 
 ## Pricing
