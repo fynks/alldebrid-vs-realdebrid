@@ -49,6 +49,19 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 
 
 ## Avialble Hosts
+
+
+> Last updated: Monday, December 11, 2024
+
+> [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
+
+### Live status
+ Up-to-date list of hosts for individual services can tracked from:
+- [AllDebrid](https://alldebrid.com/status/)
+- [Real-Debrid](https://real-debrid.com/compare)
+- [LinkSnappy](https://linksnappy.com/myaccount/status)
+- [Premiumize](https://www.premiumize.me/services)
+- [TorBox](https://support.torbox.app/en/articles/9837721-supported-debrid-hosters)
 | **Service Name**            | **AllDebrid** | **TorBox**                 | **Premiumize** | **RealDebrid** | **LinkSnappy** |
 | --------------------------- | ------------- | -------------------------- | -------------- | -------------- | -------------- |
 | **1Fichier**                | Yes           | Yes                        | Yes            | Yes            | No             |
@@ -154,16 +167,3 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Youtube**                 | No            | Yes                        | Yes            | Yes            | No             |
 | **Twitch**                  | No            | Yes                        | No             | No             | No             |
 | _Total 98_                  | 82/98         | 18/98                      | 32/98          | 44/98          | 20/98          |
-
-
-> Last updated: Monday, December 11, 2024
-
-> [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
-
-### Live status
- Up-to-date list of hosts for individual services can tracked from:
-- [AllDebrid](https://alldebrid.com/status/)
-- [Real-Debrid](https://real-debrid.com/compare)
-- [LinkSnappy](https://linksnappy.com/myaccount/status)
-- [Premiumize](https://www.premiumize.me/services)
-- [TorBox](https://support.torbox.app/en/articles/9837721-supported-debrid-hosters)
