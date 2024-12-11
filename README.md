@@ -62,6 +62,8 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 - [LinkSnappy](https://linksnappy.com/myaccount/status)
 - [Premiumize](https://www.premiumize.me/services)
 - [TorBox](https://support.torbox.app/en/articles/9837721-supported-debrid-hosters)
+
+## Avialble Hosts
 | **Service Name**            | **AllDebrid** | **TorBox**                 | **Premiumize** | **RealDebrid** | **LinkSnappy** |
 | --------------------------- | ------------- | -------------------------- | -------------- | -------------- | -------------- |
 | **1Fichier**                | Yes           | Yes                        | Yes            | Yes            | No             |
