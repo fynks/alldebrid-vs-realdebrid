@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Table Column Reorderer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 200px;
+            margin: 10px 0;
+            font-family: monospace;
+        }
+
+        .table-container {
+            overflow-x: auto;
+            margin: 20px 0;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: #f0f0f0;
+            padding: 8px;
+            border: 1px solid #ccc;
+            cursor: move;
+            user-select: none;
+        }
+
+        td {
+            padding: 8px;
+            border: 1px solid #ccc;
+        }
+
+        .dragging {
+            opacity: 0.5;
+            background: #e0e0e0;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Markdown Table Column Reorderer</h1>
+    <div>
+        <h3>Input Markdown Table:</h3>
+        <textarea id="input" placeholder="Paste your markdown table here..."></textarea>
+        <button onclick="parseTable()">Parse Table</button>
+    </div>
+    
+    <div id="tableContainer" class="table-container"></div>
+    
+    <div>
+        <h3>Output Markdown Table:</h3>
+        <textarea id="output" readonly></textarea>
+    </div>
+
+    <script>
+        let tableData = {
+            headers: [],
+            rows: [],
+            alignments: []
+        };
+
+        function parseTable() {
+            const input = document.getElementById('input').value;
+            const lines = input.trim().split('\n');
+            
+            if (lines.length < 3) return;
+
+            // Parse headers
+            tableData.headers = lines[0].split('|')
+                .filter(cell => cell.trim())
+                .map(cell => cell.trim());
+
+            // Parse alignments
+            const alignmentRow = lines[1].split('|')
+                .filter(cell => cell.trim());
+            tableData.alignments = alignmentRow.map(cell => {
+                cell = cell.trim();
+                if (cell.startsWith(':') && cell.endsWith(':')) return 'center';
+                if (cell.endsWith(':')) return 'right';
+                return 'left';
+            });
+
+            // Parse data rows
+            tableData.rows = lines.slice(2).map(line => 
+                line.split('|')
+                    .filter(cell => cell.trim())
+                    .map(cell => cell.trim())
+            );
+
+            renderTable();
+        }
+
+        function renderTable() {
+            const container = document.getElementById('tableContainer');
+            const table = document.createElement('table');
+            
+            // Create header
+            const thead = document.createElement('thead');
+            const headerRow = document.createElement('tr');
+            tableData.headers.forEach((header, index) => {
+                const th = document.createElement('th');
+                th.textContent = header;
+                th.draggable = true;
+                th.dataset.index = index;
+                th.addEventListener('dragstart', handleDragStart);
+                th.addEventListener('dragover', handleDragOver);
+                th.addEventListener('drop', handleDrop);
+                headerRow.appendChild(th);
+            });
+            thead.appendChild(headerRow);
+            table.appendChild(thead);
+
+            // Create body
+            const tbody = document.createElement('tbody');
+            tableData.rows.forEach(row => {
+                const tr = document.createElement('tr');
+                row.forEach(cell => {
+                    const td = document.createElement('td');
+                    td.textContent = cell;
+                    tr.appendChild(td);
+                });
+                tbody.appendChild(tr);
+            });
+            table.appendChild(tbody);
+
+            container.innerHTML = '';
+            container.appendChild(table);
+            
+            generateMarkdown();
+        }
+
+        function handleDragStart(e) {
+            e.target.classList.add('dragging');
+            e.dataTransfer.setData('text/plain', e.target.dataset.index);
+        }
+
+        function handleDragOver(e) {
+            e.preventDefault();
+        }
+
+        function handleDrop(e) {
+            e.preventDefault();
+            const draggedIdx = parseInt(e.dataTransfer.getData('text/plain'));
+            const dropIdx = parseInt(e.target.dataset.index);
+            
+            if (draggedIdx === dropIdx) return;
+
+            // Reorder headers
+            const tempHeader = tableData.headers[draggedIdx];
+            tableData.headers.splice(draggedIdx, 1);
+            tableData.headers.splice(dropIdx, 0, tempHeader);
+
+            // Reorder alignments
+            const tempAlign = tableData.alignments[draggedIdx];
+            tableData.alignments.splice(draggedIdx, 1);
+            tableData.alignments.splice(dropIdx, 0, tempAlign);
+
+            // Reorder data in rows
+            tableData.rows.forEach(row => {
+                const tempCell = row[draggedIdx];
+                row.splice(draggedIdx, 1);
+                row.splice(dropIdx, 0, tempCell);
+            });
+
+            renderTable();
+        }
+
+        function generateMarkdown() {
+            let markdown = '';
+            
+            // Generate header row
+            markdown += '| ' + tableData.headers.join(' | ') + ' |\n';
+            
+            // Generate alignment row
+            markdown += '| ' + tableData.alignments.map(align => {
+                switch(align) {
+                    case 'center': return ':---:';
+                    case 'right': return '---:';
+                    default: return '---';
+                }
+            }).join(' | ') + ' |\n';
+            
+            // Generate data rows
+            tableData.rows.forEach(row => {
+                markdown += '| ' + row.join(' | ') + ' |\n';
+            });
+            
+            document.getElementById('output').value = markdown;
+        }
+    </script>
+</body>
+</html>
