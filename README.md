@@ -4,10 +4,13 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 
 ## Contents:
 - [Signing Up](#signing-up)
+    - [Referrel Links](#referrel-links)
+    - [Non-referrel Links](#non-referrel-links)
 - [Pricing](#pricing)
   - [Up-to-date Pricing](#up-to-date-pricing)
 - [Avialble Hosts](#avialble-hosts)
   - [Live status](#live-status)
+  - [Last updated](#last-updated-monday-december-12-2024)
 
 
 ## Signing Up
