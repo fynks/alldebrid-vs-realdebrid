@@ -1,6 +1,6 @@
 # Debrid services comparison
 
-A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services) and [TorBox](https://torbox.app/).
+A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services), [Debrid-Link](https://debrid-link.com/) and [TorBox](https://torbox.app/).
 
 ## Contents:
 - [Signing Up](#signing-up)
@@ -16,7 +16,6 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 - [AllDebrid](https://alldebrid.com/?uid=3wvya&lang=en)
 - [Real-Debrid](http://real-debrid.com/?id=10990901)
 - [TorBox](https://torbox.app/subscription?referral=47eece72-46b8-483b-8b7a-79d6c16dedf2)
-- [Premiumize](https://www.premiumize.me/account)
 - [LinkSnappy](http://linksnappy.com/?ref=774668)
 - [Debrid-Link](https://debrid-link.com/id/7B3BO)
   
