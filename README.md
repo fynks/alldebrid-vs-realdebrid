@@ -203,6 +203,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 - [LinkSnappy](https://linksnappy.com/myaccount/status)
 - [Premiumize](https://www.premiumize.me/services)
 - [TorBox](https://support.torbox.app/en/articles/9837721-supported-debrid-hosters)
+- [Debrid-Link](https://debrid-link.com/webapp/status)
 
 ---
-### Last updated: Monday, December 11, 2024
+### Last updated: Monday, December 12, 2024
