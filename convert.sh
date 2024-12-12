@@ -44,41 +44,25 @@ cat > template.html << 'EOL'
         <p>Made with ❤️ by Fynks</p>
     </footer>
 
+    <script>
+       document.addEventListener("DOMContentLoaded",(function(){const e=document.getElementById("avialble-hosts");if(e){const t=document.createElement("div");t.id="search-container",t.innerHTML='\n            <input type="text" id="search-input" placeholder="Search the table..." />\n        ',e.insertAdjacentElement("afterend",t);const n=document.getElementById("search-input");n.addEventListener("input",(function(){const e=n.value.toLowerCase(),t=document.querySelectorAll("table");if(t.length>1){const n=t[1].getElementsByTagName("tr");for(let t=1;t<n.length;t++){const o=n[t].getElementsByTagName("td");let a=!1;for(let t=0;t<o.length;t++)if(o[t].innerText.toLowerCase().includes(e)){a=!0;break}n[t].style.display=a?"":"none"}}}))}}));
+    </script>
 </body>
 </html>
+
 EOL
 
 # Create header with improved meta tags
 cat > header.html << 'EOL'
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="A comprehensive, curated list of Android root apps, tools, and utilities. Includes ad blockers, system tools, customization apps, and root-specific utilities.">
-<link rel="stylesheet" href="styles.css">
-<link rel="icon" href="../favicon.ico" sizes="any">
-<link rel="icon" href="../favicon.svg" type="image/svg+xml">
-
-<!-- OpenGraph Meta Tags -->
-<meta property="og:title" content="Awesome Android Root - Ultimate List of Root Apps">
-<meta property="og:description" content="Discover the best Android root apps, tools, and utilities. A curated collection of essential root applications for advanced Android users.">
-<meta property="og:type" content="website">
-<meta property="og:image" content="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg">
-<meta property="og:url" content="https://awesome-android-root.netlify.app/">
-<meta property="og:site_name" content="Awesome Android Root">
-
-<!-- Twitter Card Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Awesome Android Root - Ultimate List of Root Apps">
-<meta name="twitter:description" content="Discover the best Android root apps, tools, and utilities. A curated collection of essential root applications.">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg">
-
-<!-- SEO Meta Tags -->
-<meta name="keywords" content="android root, root apps, magisk modules, xposed modules, android customization, android tools, root utilities, android mods">
-<meta name="author" content="Android Root Community">
+<meta name="description" content="A quick comparison of available hosts for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, and TorBox.">
+<meta name="keywords" content="Debrid services, AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, TorBox, comparison, pricing, hosts">
+<meta name="author" content="Your Name">
 <meta name="robots" content="index, follow">
-<meta name="language" content="English">
-
-<!-- Theme and PWA -->
+<title>Debrid Services Comparison</title>
 <meta name="theme-color" content="#0366d6">
+<link rel="stylesheet" href="styles.css">
 EOL
 
 # Convert markdown with progress
@@ -90,7 +74,7 @@ pandoc README.md \
     --standalone \
     --template=template.html \
     --include-in-header=header.html \
-    --metadata title="Awesome Android Root" \
+    --metadata title="Debrid Services Comparison" \
     --shift-heading-level-by=-1 \
     --toc-depth=2 \
     -o docs/index.html || handle_error "Conversion failed"
