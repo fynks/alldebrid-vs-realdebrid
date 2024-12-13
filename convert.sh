@@ -45,7 +45,7 @@ cat > template.html << 'EOL'
     </footer>
 
     <script>
-       document.addEventListener("DOMContentLoaded",(function(){const e=document.getElementById("avialble-hosts");if(e){const t=document.createElement("div");t.id="search-container",t.innerHTML='\n            <input type="text" id="search-input" placeholder="Search the table..." />\n        ',e.insertAdjacentElement("afterend",t);const n=document.getElementById("search-input");n.addEventListener("input",(function(){const e=n.value.toLowerCase(),t=document.querySelectorAll("table");if(t.length>1){const n=t[1].getElementsByTagName("tr");for(let t=1;t<n.length;t++){const o=n[t].getElementsByTagName("td");let a=!1;for(let t=0;t<o.length;t++)if(o[t].innerText.toLowerCase().includes(e)){a=!0;break}n[t].style.display=a?"":"none"}}}))}}));
+       document.addEventListener("DOMContentLoaded",(function(){const e=document.getElementById("available-hosts");if(e){const t=document.createElement("div");t.id="search-container",t.innerHTML='\n            <input type="text" id="search-input" placeholder="Search the table..." />\n        ',e.insertAdjacentElement("afterend",t);const n=document.getElementById("search-input");n.addEventListener("input",(function(){const e=n.value.toLowerCase(),t=document.querySelectorAll("table");if(t.length>1){const n=t[1].getElementsByTagName("tr");for(let t=1;t<n.length;t++){const o=n[t].getElementsByTagName("td");let a=!1;for(let t=0;t<o.length;t++)if(o[t].innerText.toLowerCase().includes(e)){a=!0;break}n[t].style.display=a?"":"none"}}}))}}));
     </script>
 </body>
 </html>

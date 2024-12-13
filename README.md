@@ -1,32 +1,32 @@
 # Debrid services comparison
 
-A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services), [Debrid-Link](https://debrid-link.com/) and [TorBox](https://torbox.app/).
+A comparison of available hosts and pricing for [AllDebrid](https://alldebrid.com/), [Real-Debrid](https://real-debrid.com/), [LinkSnappy](https://linksnappy.com/myaccount/status), [Premiumize](https://www.premiumize.me/services), [Debrid-Link](https://debrid-link.com/) and [TorBox](https://torbox.app/).
 
 > For a better experience, I would suggest:
 [Web version of this comparision](https://debrid-services-comparison.netlify.app/)
 
 ## Contents:
 - [Signing Up](#signing-up)
-    - [Referrel Links](#referrel-links)
-    - [Non-referrel Links](#non-referrel-links)
+    - [referral Links](#referral-links)
+    - [Non-referral Links](#non-referral-links)
 - [Pricing](#pricing)
   - [Up-to-date Pricing](#up-to-date-pricing)
-- [Avialble Hosts](#avialble-hosts)
+- [Available Hosts](#available-hosts)
   - [File Hosts](#file-hosts)
   - [Adult Hosts](#adult-hosts)
   - [Live status](#live-status)
 
 
 ## Signing Up
-#### Referrel Links
-If you are signing up for any above service, Pleasew consider buying from my referrel link:
+#### referral Links
+If you are signing up for any above service, Pleasew consider buying from my referral link:
 - [AllDebrid](https://alldebrid.com/?uid=3wvya&lang=en)
 - [Real-Debrid](http://real-debrid.com/?id=10990901)
 - [TorBox](https://torbox.app/subscription?referral=47eece72-46b8-483b-8b7a-79d6c16dedf2)
 - [LinkSnappy](http://linksnappy.com/?ref=774668)
 - [Debrid-Link](https://debrid-link.com/id/7B3BO)
   
-#### Non-referrel Links
+#### Non-referral Links
 - [AllDebrid](https://alldebrid.com/register/)
 - [Real-Debrid](http://real-debrid.com/)
 - [TorBox](https://torbox.app/login)
@@ -61,7 +61,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 - [Debrid-Link](https://debrid-link.com/premium)
 
 
-## Avialble Hosts
+## Available Hosts
 ### File Hosts
 | **Service Name**            | **AllDebrid** | **Premiumize** | **RealDebrid** | **Debrid-Link** | **TorBox**                  | **LinkSnappy** |
 | --------------------------- | ------------- | -------------- | -------------- | --------------- | --------------------------- | -------------- |
