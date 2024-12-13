@@ -203,6 +203,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **XXXYMovies**              | Yes           | No             | No             | No              | No                          | No             |
 | **YouJizz**                 | Yes           | No             | No             | No              | No                          | No             |
 | **Youporn**                 | No            | No             | Yes            | No              | No                          | No             |
+| _Total 8_                   | 7/8           | 0/8            | 2/8            | 0/8             | 0/8                         | 0/8            |
 
 
 ### Live status
