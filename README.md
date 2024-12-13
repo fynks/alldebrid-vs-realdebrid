@@ -187,7 +187,10 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Upvid**                   | No            | No             | No             | Yes             | No                          | No             |
 | **Uqload**                  | No            | No             | No             | Yes             | No                          | No             |
 | **Workupload**              | No            | No             | No             | Yes             | No                          | No             |
-| _Total 131_                 | 82/131        | 32/131         | 44/131         | 53/131          | 18/131                      | 20/131         |
+| _Total 121_                 | 75/121        | 32/121         | 42/121         | 53/121          | 18/121                      | 20/121         |
+
+> [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
+
 
 ### Adult Hosts
 | **Service Name**            | **AllDebrid** | **Premiumize** | **RealDebrid** | **Debrid-Link** | **TorBox**                  | **LinkSnappy** |
@@ -200,9 +203,6 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **XXXYMovies**              | Yes           | No             | No             | No              | No                          | No             |
 | **YouJizz**                 | Yes           | No             | No             | No              | No                          | No             |
 | **Youporn**                 | No            | No             | Yes            | No              | No                          | No             |
-
-
-> [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
 
 ### Live status
  Up-to-date list of hosts for individual services can tracked from:
