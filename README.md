@@ -216,4 +216,4 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 - [Debrid-Link](https://debrid-link.com/webapp/status)
 
 ---
-#### Last updated: Monday, December 13, 2024
+#### Last updated: December 13, 2024
