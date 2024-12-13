@@ -7,7 +7,7 @@ A comparison of available hosts and pricing for [AllDebrid](https://alldebrid.co
 
 ## Contents:
 - [Signing Up](#signing-up)
-    - [referral Links](#referral-links)
+    - [Referral Links](#referral-links)
     - [Non-referral Links](#non-referral-links)
 - [Pricing](#pricing)
   - [Up-to-date Pricing](#up-to-date-pricing)
@@ -18,7 +18,7 @@ A comparison of available hosts and pricing for [AllDebrid](https://alldebrid.co
 
 
 ## Signing Up
-#### referral Links
+#### Referral Links
 If you are signing up for any above service, Please consider buying from my referral link:
 - [AllDebrid](https://alldebrid.com/?uid=3wvya&lang=en)
 - [Real-Debrid](http://real-debrid.com/?id=10990901)
