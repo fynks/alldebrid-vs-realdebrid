@@ -57,12 +57,25 @@ cat > header.html << 'EOL'
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="A quick comparison of available hosts for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, and TorBox.">
-<meta name="keywords" content="Debrid services, AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, TorBox, comparison, pricing, hosts">
-<meta name="author" content="Your Name">
+<meta name="keywords" content="Debrid services, AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, TorBox, comparison, pricing, hosts, file hosts, downloading, free downloading, mediafire, mega.nz, mega free download, turbobit free download, rapidgator free download, nitroflare">
+<meta name="author" content="Fynks">
 <meta name="robots" content="index, follow">
-<title>Debrid Services Comparison</title>
 <meta name="theme-color" content="#0366d6">
 <link rel="stylesheet" href="styles.css">
+    
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://debrid-services-comparison.netlify.app/">
+<meta property="og:title" content="Debrid Services Comparison">
+<meta property="og:description" content="A quick comparison of available hosts for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, and TorBox.">
+<meta property="og:image" content="https://debrid-services-comparison.netlify.app/image.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://debrid-services-comparison.netlify.app/">
+<meta property="twitter:title" content="Debrid Services Comparison">
+<meta property="twitter:description" content="A quick comparison of available hosts for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, and TorBox.">
+<meta property="twitter:image" content="https://debrid-services-comparison.netlify.app/image.jpg">
 EOL
 
 # Convert markdown with progress
