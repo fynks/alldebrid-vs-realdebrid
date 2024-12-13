@@ -19,7 +19,7 @@ A comparison of available hosts and pricing for [AllDebrid](https://alldebrid.co
 
 ## Signing Up
 #### referral Links
-If you are signing up for any above service, Pleasew consider buying from my referral link:
+If you are signing up for any above service, Please consider buying from my referral link:
 - [AllDebrid](https://alldebrid.com/?uid=3wvya&lang=en)
 - [Real-Debrid](http://real-debrid.com/?id=10990901)
 - [TorBox](https://torbox.app/subscription?referral=47eece72-46b8-483b-8b7a-79d6c16dedf2)
