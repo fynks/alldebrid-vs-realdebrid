@@ -68,14 +68,14 @@ cat > header.html << 'EOL'
 <meta property="og:url" content="https://debrid-services-comparison.netlify.app/">
 <meta property="og:title" content="Debrid Services Comparison">
 <meta property="og:description" content="A quick comparison of available hosts for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, and TorBox.">
-<meta property="og:image" content="https://debrid-services-comparison.netlify.app/image.jpg">
+<meta property="og:image" content="https://debrid-services-comparison.netlify.app/image.png">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://debrid-services-comparison.netlify.app/">
 <meta property="twitter:title" content="Debrid Services Comparison">
 <meta property="twitter:description" content="A quick comparison of available hosts for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, and TorBox.">
-<meta property="twitter:image" content="https://debrid-services-comparison.netlify.app/image.jpg">
+<meta property="twitter:image" content="https://debrid-services-comparison.netlify.app/image.png">
 EOL
 
 # Convert markdown with progress
