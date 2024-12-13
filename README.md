@@ -71,7 +71,6 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Apkadmin**                | Yes           | No             | No             | No              | No                          | No             |
 | **Archive.org**             | Yes           | Yes            | No             | No              | Yes                         | No             |
 | **Baidu**                   | No            | No             | No             | No              | Yes                         | No             |
-| **Beeg**                    | Yes           | No             | No             | No              | No                          | No             |
 | **Canalplus**               | Yes           | No             | No             | No              | No                          | No             |
 | **ClicknUpload**            | No            | Yes            | Yes            | Yes             | Yes                         | Yes            |
 | **Cloudvideo**              | Yes           | Yes            | No             | No              | No                          | Yes            |
@@ -187,7 +186,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Wupfile / Salefiles**     | No            | Yes            | Yes            | Yes             | No                          | Yes            |
 | **Yandex Disk**             | No            | No             | No             | No              | Yes                         | No             |
 | **Youtube**                 | No            | Yes            | Yes            | No              | Yes                         | No             |
-| _Total 121_                 | 75/121        | 32/121         | 42/121         | 53/121          | 18/121                      | 20/121         |
+| _Total 121_                 | 74/120        | 32/120         | 42/120         | 53/120          | 18/120                      | 20/120         |
 
 > [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
 
@@ -195,6 +194,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 ### Adult Hosts
 | **Service Name**            | **AllDebrid** | **Premiumize** | **RealDebrid** | **Debrid-Link** | **TorBox**                  | **LinkSnappy** |
 | --------------------------- | ------------- | -------------- | -------------- | --------------- | --------------------------- | -------------- |
+| **Beeg**                    | Yes           | No             | No             | No              | No                          | No             |
 | **PornHub**                 | Yes           | No             | No             | No              | No                          | No             |
 | **Redtube**                 | Yes           | No             | Yes            | No              | No                          | No             |
 | **XHamster**                | Yes           | No             | No             | No              | No                          | No             |
@@ -203,7 +203,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **XXXYMovies**              | Yes           | No             | No             | No              | No                          | No             |
 | **YouJizz**                 | Yes           | No             | No             | No              | No                          | No             |
 | **Youporn**                 | No            | No             | Yes            | No              | No                          | No             |
-| _Total 8_                   | 7/8           | 0/8            | 2/8            | 0/8             | 0/8                         | 0/8            |
+| _Total 8_                   | 8/9           | 0/8            | 2/8            | 0/8             | 0/8                         | 0/8            |
 
 
 ### Live status
