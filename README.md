@@ -12,8 +12,9 @@ A quick camprision of available hosts for [AllDebrid](https://alldebrid.com/), [
 - [Pricing](#pricing)
   - [Up-to-date Pricing](#up-to-date-pricing)
 - [Avialble Hosts](#avialble-hosts)
+  - [File Hosts](#file-hosts)
+  - [Adult Hosts](#adult-hosts)
   - [Live status](#live-status)
-  - [Last updated](#last-updated-monday-december-12-2024)
 
 
 ## Signing Up
@@ -61,6 +62,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 
 
 ## Avialble Hosts
+### File Hosts
 | **Service Name**            | **AllDebrid** | **Premiumize** | **RealDebrid** | **Debrid-Link** | **TorBox**                  | **LinkSnappy** |
 | --------------------------- | ------------- | -------------- | -------------- | --------------- | --------------------------- | -------------- |
 | **1Fichier**                | Yes           | Yes            | Yes            | Yes             | Yes                         | No             |
@@ -114,12 +116,9 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Niconico**                | Yes           | No             | No             | No              | No                          | No             |
 | **NYTimes**                 | Yes           | Yes            | No             | No              | No                          | No             |
 | **OdNoklassniki**           | Yes           | No             | No             | No              | No                          | No             |
-| **PornHub**                 | Yes           | No             | No             | No              | No                          | No             |
-| **PorNoXO**                 | Yes           | No             | No             | No              | No                          | No             |
 | **Prefiles**                | Yes           | No             | Yes            | Yes             | No                          | No             |
 | **RadioTunes**              | No            | No             | Yes            | No              | No                          | No             |
 | **RapidGator**              | Yes           | Yes            | Yes            | Yes             | Yes                         | Yes            |
-| **Redtube**                 | Yes           | No             | Yes            | No              | No                          | No             |
 | **RTBF**                    | Yes           | No             | No             | No              | No                          | No             |
 | **RTS**                     | Yes           | No             | No             | No              | No                          | No             |
 | **RTVE.es**                 | Yes           | Yes            | No             | No              | No                          | No             |
@@ -157,12 +156,6 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **World-files**             | Yes           | No             | No             | Yes             | No                          | No             |
 | **Worldbytez**              | Yes           | No             | Yes            | Yes             | No                          | No             |
 | **Wupfile / Salefiles**     | No            | Yes            | Yes            | Yes             | No                          | Yes            |
-| **XHamster**                | Yes           | No             | No             | No              | No                          | No             |
-| **XNXX**                    | Yes           | No             | No             | No              | No                          | No             |
-| **XVideos**                 | Yes           | No             | No             | No              | No                          | No             |
-| **XXXYMovies**              | Yes           | No             | No             | No              | No                          | No             |
-| **YouJizz**                 | Yes           | No             | No             | No              | No                          | No             |
-| **Youporn**                 | No            | No             | Yes            | No              | No                          | No             |
 | **Youtube**                 | No            | Yes            | Yes            | No              | Yes                         | No             |
 | **Twitch**                  | No            | No             | No             | No              | Yes                         | No             |
 | **Darikbox**                | No            | No             | No             | Yes             | No                          | No             |
@@ -196,7 +189,17 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Workupload**              | No            | No             | No             | Yes             | No                          | No             |
 | _Total 131_                 | 82/131        | 32/131         | 44/131         | 53/131          | 18/131                      | 20/131         |
 
-
+### Adult Hosts
+| **Service Name**            | **AllDebrid** | **Premiumize** | **RealDebrid** | **Debrid-Link** | **TorBox**                  | **LinkSnappy** |
+| --------------------------- | ------------- | -------------- | -------------- | --------------- | --------------------------- | -------------- |
+| **PornHub**                 | Yes           | No             | No             | No              | No                          | No             |
+| **Redtube**                 | Yes           | No             | Yes            | No              | No                          | No             |
+| **XHamster**                | Yes           | No             | No             | No              | No                          | No             |
+| **XNXX**                    | Yes           | No             | No             | No              | No                          | No             |
+| **XVideos**                 | Yes           | No             | No             | No              | No                          | No             |
+| **XXXYMovies**              | Yes           | No             | No             | No              | No                          | No             |
+| **YouJizz**                 | Yes           | No             | No             | No              | No                          | No             |
+| **Youporn**                 | No            | No             | Yes            | No              | No                          | No             |
 
 
 > [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
@@ -211,4 +214,4 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 - [Debrid-Link](https://debrid-link.com/webapp/status)
 
 ---
-#### Last updated: Monday, December 12, 2024
+#### Last updated: Monday, December 13, 2024
