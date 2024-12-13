@@ -70,7 +70,6 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Alfafile**                | Yes           | No             | No             | No              | No                          | Yes            |
 | **Apkadmin**                | Yes           | No             | No             | No              | No                          | No             |
 | **Archive.org**             | Yes           | Yes            | No             | No              | Yes                         | No             |
-| **MegaUp**                  | No            | No             | No             | No              | Yes                         | No             |
 | **Baidu**                   | No            | No             | No             | No              | Yes                         | No             |
 | **Beeg**                    | Yes           | No             | No             | No              | No                          | No             |
 | **Canalplus**               | Yes           | No             | No             | No              | No                          | No             |
@@ -80,42 +79,64 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Crunchyroll**             | Yes           | No             | No             | No              | No                          | No             |
 | **Dailymotion**             | Yes           | No             | Yes            | No              | No                          | Yes            |
 | **Dailyuploads**            | Yes *         | No             | No             | Yes             | No                          | No             |
+| **Darikbox**                | No            | No             | No             | Yes             | No                          | No             |
 | **DDowload / DDL.to**       | Yes           | No             | Yes            | Yes             | YEs                         | Yes            |
-| **DrTuber**                 | Yes           | No             | No             | No              | No                          | No             |
+| **Dropbox**                 | No            | No             | No             | Yes             | No                          | No             |
 | **Drop.download / DropAPK** | Yes           | Yes            | Yes            | Yes             | No                          | No             |
 | **Dropgalaxy**              | Yes           | No             | No             | No              | No                          | No             |
+| **DrTuber**                 | Yes           | No             | No             | No              | No                          | No             |
+| **Elitefile**               | No            | No             | No             | Yes             | No                          | No             |
+| **Emload**                  | No            | No             | No             | Yes             | No                          | No             |
 | **Exload**                  | Yes *         | No             | No             | No              | No                          | No             |
 | **Fastbit**                 | Yes           | No             | No             | No              | No                          | No             |
-| **File-upload**             | Yes           | No             | No             | No              | No                          | No             |
+| **Fikper**                  | No            | No             | No             | Yes             | No                          | No             |
+| **File.al**                 | No            | No             | No             | Yes             | No                          | No             |
 | **File.al**                 | Yes           | Yes            | Yes            | No              | No                          | Yes            |
+| **Fileaxa**                 | No            | No             | No             | Yes             | No                          | No             |
+| **Filecat**                 | No            | No             | No             | Yes             | No                          | No             |
+| **Filedot**                 | No            | No             | No             | Yes             | No                          | No             |
 | **Filefactory**             | No            | Yes            | Yes            | No              | Yes                         | Yes            |
+| **Fileland**                | No            | No             | No             | Yes             | No                          | No             |
+| **Filenext**                | No            | No             | No             | Yes             | No                          | No             |
 | **Filenext**                | No            | Yes            | Yes            | No              | No                          | Yes            |
-| **Filespace**               | Yes           | No             | Yes            | No              | No                          | Yes            |
-| **Filestore**               | No            | Yes            | Yes            | No              | No                          | No             |
 | **Filerio**                 | Yes *         | No             | No             | No              | No                          | No             |
+| **Filesfly**                | No            | No             | No             | Yes             | No                          | No             |
+| **Filespace**               | No            | No             | No             | Yes             | No                          | No             |
+| **Filespace**               | Yes           | No             | Yes            | No              | No                          | Yes            |
+| **FileStore**               | No            | No             | No             | Yes             | No                          | No             |
+| **Filestore**               | No            | Yes            | Yes            | No              | No                          | No             |
+| **File-upload**             | Yes           | No             | No             | No              | No                          | No             |
 | **Filezip**                 | Yes *         | No             | No             | No              | No                          | No             |
 | **Flashbit**                | Yes           | No             | Yes            | No              | No                          | Yes            |
+| **Gigapeta**                | No            | No             | No             | Yes             | No                          | No             |
 | **Gigapeta**                | Yes           | No             | Yes            | No              | No                          | Yes            |
+| **Gofile**                  | No            | No             | No             | Yes             | No                          | No             |
 | **Google**                  | Yes           | Yes            | Yes            | No              | No                          | No             |
 | **Harefile**                | Yes           | No             | No             | No              | No                          | No             |
 | **HexUpload / HexLoad**     | No            | Yes            | Yes            | No              | No                          | No             |
+| **Hitfile**                 | No            | No             | No             | Yes             | No                          | No             |
 | **Hitfile**                 | Yes           | Yes            | Yes            | No              | Yes                         | Yes            |
 | **Hot4share**               | Yes *         | No             | No             | No              | No                          | No             |
+| **Hulkshare**               | No            | No             | No             | Yes             | No                          | No             |
 | **Indishare**               | Yes *         | No             | No             | No              | No                          | No             |
+| **Isracloud**               | No            | No             | No             | Yes             | No                          | No             |
 | **Isra**                    | Yes           | Yes            | Yes            | No              | No                          | Yes            |
+| **Jumploads**               | No            | No             | No             | Yes             | No                          | No             |
 | **Katfile**                 | Yes           | Yes            | Yes            | Yes             | Yes                         | Yes            |
+| **Kshared**                 | No            | No             | No             | Yes             | No                          | No             |
 | **Lynda**                   | Yes           | No             | No             | No              | No                          | No             |
 | **Mediafire**               | Yes           | Yes            | Yes            | Yes             | Yes                         | Yes            |
+| **MegaUp**                  | No            | No             | No             | No              | Yes                         | No             |
 | **Mega**                    | Yes           | Yes            | Yes            | Yes             | Yes (Folders not supported) | Yes            |
-| **PixelDrain**              | No            | No             | No             | Yes             | Yes                         | No             |
-| **Yandex Disk**             | No            | No             | No             | No              | Yes                         | No             |
 | **Mexashare**               | Yes           | No             | No             | Yes             | No                          | No             |
 | **Mixdrop**                 | Yes *         | No             | Yes            | Yes             | No                          | No             |
 | **Modsbase**                | Yes           | Yes            | No             | No              | No                          | No             |
 | **MP4upload**               | Yes           | No             | No             | No              | No                          | No             |
+| **Nelion**                  | No            | No             | No             | Yes             | No                          | No             |
 | **Niconico**                | Yes           | No             | No             | No              | No                          | No             |
 | **NYTimes**                 | Yes           | Yes            | No             | No              | No                          | No             |
 | **OdNoklassniki**           | Yes           | No             | No             | No              | No                          | No             |
+| **PixelDrain**              | No            | No             | No             | Yes             | Yes                         | No             |
 | **Prefiles**                | Yes           | No             | Yes            | Yes             | No                          | No             |
 | **RadioTunes**              | No            | No             | Yes            | No              | No                          | No             |
 | **RapidGator**              | Yes           | Yes            | Yes            | Yes             | Yes                         | Yes            |
@@ -127,14 +148,19 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Sendit**                  | Yes           | No             | No             | No              | No                          | No             |
 | **Sendspace**               | No            | No             | Yes            | No              | No                          | No             |
 | **Sharemods**               | Yes           | No             | No             | No              | No                          | No             |
+| **Silkfiles**               | No            | No             | No             | Yes             | No                          | No             |
 | **Simfileshare**            | Yes           | No             | No             | No              | No                          | No             |
 | **SoundCloud**              | Yes           | Yes            | Yes            | Yes             | No                          | Yes            |
 | **SpankBang**               | Yes           | No             | No             | No              | No                          | No             |
 | **Steam**                   | Yes           | No             | No             | No              | No                          | No             |
 | **Streamtape**              | No            | Yes            | Yes            | No              | No                          | No             |
+| **Subyshare**               | No            | No             | No             | Yes             | No                          | No             |
 | **SunPorNo**                | Yes           | No             | No             | No              | No                          | No             |
+| **Terabox**                 | No            | No             | No             | Yes             | No                          | No             |
 | **Terabytez**               | No            | No             | Yes            | Yes             | No                          | No             |
+| **Tezfiles**                | No            | No             | No             | Yes             | No                          | No             |
 | **Turbobit**                | Yes           | Yes            | Yes            | Yes             | Yes                         | Yes            |
+| **Twitch**                  | No            | No             | No             | No              | Yes                         | No             |
 | **Upload42**                | Yes           | No             | No             | No              | No                          | No             |
 | **Uploadbank**              | Yes *         | No             | No             | No              | No                          | No             |
 | **Uploadbox**               | Yes *         | No             | No             | No              | No                          | No             |
@@ -143,50 +169,24 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **Uploadrar**               | Yes           | Yes            | No             | No              | No                          | No             |
 | **Uploady**                 | Yes           | No             | No             | Yes             | No                          | No             |
 | **Upstream**                | No            | No             | Yes            | No              | No                          | No             |
+| **Upvid**                   | No            | No             | No             | Yes             | No                          | No             |
+| **Uqload**                  | No            | No             | No             | Yes             | No                          | No             |
 | **Userscloud**              | Yes           | No             | Yes            | No              | No                          | No             |
 | **UsersDrive**              | Yes *         | Yes            | Yes            | Yes             | No                          | No             |
 | **Userupload**              | Yes           | No             | No             | No              | No                          | No             |
+| **Veoh**                    | Yes           | Yes            | No             | No              | No                          | No             |
 | **Vidoza**                  | Yes           | Yes            | Yes            | Yes             | No                          | No             |
 | **Vimeo**                   | Yes           | No             | Yes            | No              | No                          | No             |
+| **Vipfile**                 | Yes           | No             | No             | No              | No                          | No             |
 | **VK**                      | No            | Yes            | Yes            | No              | No                          | No             |
 | **Voe**                     | No            | No             | Yes            | No              | No                          | No             |
-| **Veoh**                    | Yes           | Yes            | No             | No              | No                          | No             |
-| **Vipfile**                 | Yes           | No             | No             | No              | No                          | No             |
 | **Wipfiles**                | No            | No             | Yes            | No              | No                          | No             |
-| **World-files**             | Yes           | No             | No             | Yes             | No                          | No             |
-| **Worldbytez**              | Yes           | No             | Yes            | Yes             | No                          | No             |
-| **Wupfile / Salefiles**     | No            | Yes            | Yes            | Yes             | No                          | Yes            |
-| **Youtube**                 | No            | Yes            | Yes            | No              | Yes                         | No             |
-| **Twitch**                  | No            | No             | No             | No              | Yes                         | No             |
-| **Darikbox**                | No            | No             | No             | Yes             | No                          | No             |
-| **Dropbox**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Elitefile**               | No            | No             | No             | Yes             | No                          | No             |
-| **Emload**                  | No            | No             | No             | Yes             | No                          | No             |
-| **Fikper**                  | No            | No             | No             | Yes             | No                          | No             |
-| **File.al**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Fileaxa**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Filecat**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Filedot**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Fileland**                | No            | No             | No             | Yes             | No                          | No             |
-| **Filenext**                | No            | No             | No             | Yes             | No                          | No             |
-| **Filesfly**                | No            | No             | No             | Yes             | No                          | No             |
-| **Filespace**               | No            | No             | No             | Yes             | No                          | No             |
-| **FileStore**               | No            | No             | No             | Yes             | No                          | No             |
-| **Gigapeta**                | No            | No             | No             | Yes             | No                          | No             |
-| **Gofile**                  | No            | No             | No             | Yes             | No                          | No             |
-| **Hitfile**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Hulkshare**               | No            | No             | No             | Yes             | No                          | No             |
-| **Isracloud**               | No            | No             | No             | Yes             | No                          | No             |
-| **Jumploads**               | No            | No             | No             | Yes             | No                          | No             |
-| **Kshared**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Nelion**                  | No            | No             | No             | Yes             | No                          | No             |
-| **Silkfiles**               | No            | No             | No             | Yes             | No                          | No             |
-| **Subyshare**               | No            | No             | No             | Yes             | No                          | No             |
-| **Terabox**                 | No            | No             | No             | Yes             | No                          | No             |
-| **Tezfiles**                | No            | No             | No             | Yes             | No                          | No             |
-| **Upvid**                   | No            | No             | No             | Yes             | No                          | No             |
-| **Uqload**                  | No            | No             | No             | Yes             | No                          | No             |
 | **Workupload**              | No            | No             | No             | Yes             | No                          | No             |
+| **Worldbytez**              | Yes           | No             | Yes            | Yes             | No                          | No             |
+| **World-files**             | Yes           | No             | No             | Yes             | No                          | No             |
+| **Wupfile / Salefiles**     | No            | Yes            | Yes            | Yes             | No                          | Yes            |
+| **Yandex Disk**             | No            | No             | No             | No              | Yes                         | No             |
+| **Youtube**                 | No            | Yes            | Yes            | No              | Yes                         | No             |
 | _Total 121_                 | 75/121        | 32/121         | 42/121         | 53/121          | 18/121                      | 20/121         |
 
 > [*](https://help.alldebrid.com/en/faq/free-hosts) = These hosts can Not be added to our premium offer.On the other hand, we can support them in "free" mode (with a waiting time on the link generation). These "bonus" hosts are offered to you as is, for free and on the basis of the "best effort".! These hosts are Not included in our premium offer !
@@ -203,6 +203,7 @@ If you are signing up for any above service, Pleasew consider buying from my ref
 | **XXXYMovies**              | Yes           | No             | No             | No              | No                          | No             |
 | **YouJizz**                 | Yes           | No             | No             | No              | No                          | No             |
 | **Youporn**                 | No            | No             | Yes            | No              | No                          | No             |
+
 
 ### Live status
  Up-to-date list of hosts for individual services can tracked from:
