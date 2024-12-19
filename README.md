@@ -138,7 +138,7 @@ If you are signing up for any above service, Please consider buying from my refe
 | **PixelDrain**              | No            | No             | No             | Yes             | Yes                         | No             |
 | **Prefiles**                | Yes           | No             | Yes            | Yes             | No                          | No             |
 | **RadioTunes**              | No            | No             | Yes            | No              | No                          | No             |
-| **RapidGator**              | Yes           | Yes            | Yes            | Yes             | Yes                         | Yes            |
+| **RapidGator**              | Yes           | Yes            | Yes            | Yes             | No                          | Yes            |
 | **RTBF**                    | Yes           | No             | No             | No              | No                          | No             |
 | **RTS**                     | Yes           | No             | No             | No              | No                          | No             |
 | **RTVE.es**                 | Yes           | Yes            | No             | No              | No                          | No             |
